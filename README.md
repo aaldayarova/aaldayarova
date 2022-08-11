@@ -1,5 +1,13 @@
-### Hi there 👋
+### 👋 Hi there, welcome to my GitHub page!
 
+If you've managed to find me here, you're probably interested in what I do. I am currently studying Computer Science and Neuroscience, among other things, at Harvard with the hopes of pursuing further education and a career in the fields of artificial intelligence, machine learning, and natural language processing. 
+
+Specifically on GitHub, you can find my collection of technical projects and work, more generally. 
+
+To learn more about me via other perspectives, find me on:
+LinkedIn, Twitter, and __personal_website.
+
+Happy exploring (and learning)!
 <!--
 **aaldayarova/aaldayarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
