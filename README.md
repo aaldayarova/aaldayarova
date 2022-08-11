@@ -5,7 +5,7 @@ If you've managed to find me here, you're probably interested in what I do. I am
 Specifically on GitHub, you can find my collection of technical projects and work, more generally. 
 
 To learn more about me via other perspectives, find me on:<br>
-<a href="https://www.linkedin.com/in/aikaaldayarova" target="blank"><img align="center" src="/" height="50" /></a>, <a href="https://twitter.com/AAldayarova" target="blank"><img align="center" src="/Users/aikaaldayarova/Downloads/twitter.svg" height="50" /></a>, <a href="https://www.figma.com/@aikaaldayarova" target="blank"><img align="center" src="/Users/aikaaldayarova/Downloads/figma.svg" height="50" /></a>and personal website (coming soon!).
+<a href="https://www.linkedin.com/in/aikaaldayarova" target="blank"><img align="center" src="/Users/aikaaldayarova/Downloads/linkedin.svg" height="50" /></a>, <a href="https://twitter.com/AAldayarova" target="blank"><img align="center" src="/Users/aikaaldayarova/Downloads/twitter.svg" height="50" /></a>, <a href="https://www.figma.com/@aikaaldayarova" target="blank"><img align="center" src="/Users/aikaaldayarova/Downloads/figma.svg" height="50" /></a>and personal website (coming soon!).
 
 Happy exploring (and learning)!
 <!--
