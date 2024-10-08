@@ -1,8 +1,8 @@
 ### 👋 Hi there, welcome to my GitHub page!
 
-If you've managed to find me here, you're probably interested in what I do. I am currently studying Information Systems and Data Science, among other things, at Cornell Tech with the hopes of pursuing a career in the fields of artificial intelligence, machine learning, and natural language processing. I am a proud alumna of Harvard, where I received a Computer Science degree in May 2024.
+If you've managed to find me here, you're probably interested in what I do. I am currently studying Information Systems and Data Science, among other things, at Cornell Tech with the hopes of pursuing a career in the fields of data science and machine learning. I am a proud alumna of Harvard, where I received a Computer Science degree in May 2024.
 
-Specifically on GitHub, you can find my collection of technical projects and work, more generally. 
+Specifically on GitHub, you can find my collection of technical projects. 
 
 To learn more about me via other perspectives, find me on:<br>
 <a href="https://www.linkedin.com/in/aikaaldayarova" target="blank"><img src="images/linkedin.svg" align="center" height="40"></a> , 
