@@ -6,7 +6,6 @@ Specifically on GitHub, you can find my collection of technical projects.
 
 To learn more about me via other perspectives, find me on:<br>
 <a href="https://www.linkedin.com/in/aikaaldayarova" target="blank"><img src="images/linkedin.svg" align="center" height="40"></a> , 
-<a href="https://twitter.com/AAldayarova" target="blank"><img src="images/twitter.svg" align="center" height="40"></a> ,
 <a href="https://www.figma.com/@aikaaldayarova" target="blank"><img src="images/figma.svg" align="center" height="40"></a> , 
 <a href="https://aikaaldayarova.notion.site/My-Books-0d13fc68d57244d6ba952fd5f2bea8da" target="blank"><img src="images/notion.svg" align="center" height="40"></a>.
 
